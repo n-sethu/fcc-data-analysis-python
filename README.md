@@ -37,7 +37,7 @@ Each project demonstrates proficiency in real-world data analysis, including:
 
 ## 🛠️ Tech Stack
 
-- **Python 3.x**
+- **Python 3.13**
 - **Jupyter Notebook**
 - **pandas**
 - **NumPy**
