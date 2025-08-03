@@ -62,5 +62,5 @@ This project is licensed under the [MIT License](LICENSE), and the datasets used
 ## 📬 Contact
 
 Feel free to reach out or connect if you'd like to collaborate or discuss the work:
-- GitHub: [@yourusername](https://github.com/nikhil-sethu/)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/nikhil-sethu/)
+- GitHub: [@nikhil-sethu](https://github.com/nikhil-sethu/)
+- LinkedIn: [linkedin.com/in/nikhil-sethu/](https://linkedin.com/in/nikhil-sethu/)
